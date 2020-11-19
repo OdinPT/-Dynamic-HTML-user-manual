@@ -26,7 +26,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605629192432</updated>
-      <workItem from="1605629194063" duration="10685000" />
+      <workItem from="1605629194063" duration="19851000" />
     </task>
     <servers />
   </component>
@@ -34,9 +34,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605661464550">
+    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605777864214">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605661464550" />
+    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605777864214" />
+    <state x="987" y="119" width="585" height="801" key="find.popup" timestamp="1605789978954">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="119" width="585" height="801" key="find.popup/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605789978954" />
+    <state x="936" y="240" key="run.anything.popup" timestamp="1605785508937">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="936" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1605785508937" />
   </component>
 </project>
